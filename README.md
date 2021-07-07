@@ -1,6 +1,6 @@
 ### 易哥 | Yeecode
 
-个人主页 | HomePage : [yeecode.top](yeecode.top)
+个人主页 | HomePage : [yeecode.top](http://yeecode.top)
 
 <!--
 **yeecode/yeecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
