@@ -2,6 +2,8 @@
 
 个人主页 | HomePage : [yeecode.top](http://yeecode.top)
 
+![Yeecode's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeecode&show_icons=true&theme=cobalt)
+
 <!--
 **yeecode/yeecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
